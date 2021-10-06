@@ -1,7 +1,6 @@
 # cse210-Team-01-
 Repository for our CSE210 class for our term project
 
-
 # Federico Pregnolato
 Hi my name is Federico Pregnolato and I am from Rome, Italy. I am married to my sweetheart, Cristina, and I have two children, Sophia and Samuel. I like playing soccer, hiking, traveling, and eating good food. I am learning how to program and I hope that I will be able to work in the industry further down the line.
 
@@ -15,3 +14,7 @@ Hi Im yamil, Im come from bolivia, I Like nature and gardenig I will love to hav
 This is David from Uruguay. My major is Applied Technology that I hope to graduate next year!
 Adding a 2nd line of README from testing new branch
 Adding a 3rd line of README from testing branch
+
+# Brian Lewis
+Old dog learning new tricks.  I'm in Hawaii returning to Colorado in October with my wife of 30+ years.  I have two adult sons and love to learn.
+
